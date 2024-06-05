@@ -1,6 +1,8 @@
 # Identification-of-Fish-Species
 The Below image depicts a basic structure of a neural network used for image classification, specifically for identifying different types of fish. Here's a detailed explanation. <br></br>
+
 ![Picture1](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/cc4ef9fb-1dd9-493b-8ed9-332def49ecfe)
+<br></br>
 <H3><B>Neural Network Structure</B></H3> 
 
 <OL>
@@ -16,8 +18,9 @@ The output layer consists of neurons corresponding to the possible classes the n
   
 ![Picture2](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/93d94492-7512-4959-b933-510d19ea6c32)
 
-<H3>User Interface</H3>
+<br></br>
 
+<H3>User Interface</H3>
 The interface is designed to be highly accessible and functional:<BR>
 <ol>
 <li><b>Sidebar with Fish Species List:</b> The sidebar contains a scrollable list of fish species that the model can recognize, each accompanied by an icon for easy identification.</li><BR>
@@ -29,6 +32,7 @@ The interface is designed to be highly accessible and functional:<BR>
 
 ![Picture3](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/50cd8f62-a382-4ea6-9809-2fd0aa67cbc8)
 
+<br></br>
 The image depicts a user interface for fish species identification. The uploaded image shows several goldfish swimming. The system has detected the class as "fish" and identified the species as "Gold Fish." On the left side, there's a list of various fish species, each with an icon, providing options for users to explore different types of fish.
 <BR></BR>
 
