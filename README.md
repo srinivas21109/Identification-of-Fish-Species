@@ -12,6 +12,7 @@ The network contains multiple hidden layers. These layers consist of interconnec
 The output layer consists of neurons corresponding to the possible classes the network can predict. In this example, there are three classes: Gold Fish, Indian Carp, and Goby.Each neuron in the output layer represents the probability of the input image belonging to a particular class.</LI>
 </OL>
   <BR></BR>
+  
 ![Picture2](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/93d94492-7512-4959-b933-510d19ea6c32)
 <BR></BR>
 **User Interface**
