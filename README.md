@@ -20,10 +20,10 @@ The output layer consists of neurons corresponding to the possible classes the n
 <BR></BR>
 The interface is designed to be highly accessible and functional:<BR>
 <ol>
-<li><b>Sidebar with Fish Species List:</b> The sidebar contains a scrollable list of fish species that the model can recognize, each accompanied by an icon for easy identification.</li>
-<li><b>Upload and Capture Options:</b> Users can select to upload an image file or capture a new image using their device's camera.</li>
-<li><b>Drag-and-Drop Upload Area:</b> A dedicated area where users can drag and drop image files for classification.</li>
-<li><b>Image Upload Limitations:</b> Clearly states the file size limit and supported formats to ensure users provide compatible images.</li>
+<li><b>Sidebar with Fish Species List:</b> The sidebar contains a scrollable list of fish species that the model can recognize, each accompanied by an icon for easy identification.</li><BR>
+<li><b>Upload and Capture Options:</b> Users can select to upload an image file or capture a new image using their device's camera.</li><BR>
+<li><b>Drag-and-Drop Upload Area:</b> A dedicated area where users can drag and drop image files for classification.</li><BR>
+<li><b>Image Upload Limitations:</b> Clearly states the file size limit and supported formats to ensure users provide compatible images.</li><BR>
 </ol>
 <BR></BR>
 
@@ -36,6 +36,7 @@ The image depicts a user interface for fish species identification. The uploaded
 The model has identified the fish in the image as a Goby with a confidence level of 100.00%. This indicates that the model is completely certain that the fish belongs to the Goby species. On the other hand, the model has a 0.00% confidence level for other fish species, including Snakehead, Catfish, Janitor Fish, and Mudfish. This means the model is entirely sure that the fish is not any of these species.
 <BR></BR>
 ![Picture5](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/02975bba-0cc1-4e1e-ab87-83a468afd5d3)
+<br>
 The model was unable to classify the image as it does not match any of the known classes in the dataset. The message displayed is:<BR></BR>
 
 "Your image doesn't belong to any of our classes 😔"<BR></BR>
