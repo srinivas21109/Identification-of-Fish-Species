@@ -20,7 +20,7 @@ The interface is designed to be highly accessible and functional:<BR>
 <li>Drag-and-Drop Upload Area: A dedicated area where users can drag and drop image files for classification.</li>
 <li>Image Upload Limitations: Clearly states the file size limit and supported formats to ensure users provide compatible images.</li>
 </ol>
-<BR>
+<BR></BR>
 ![Picture3](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/378fed92-6e8f-4ee3-845d-ab0d76d65c4c)
 
 ![Picture4](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/50cd8f62-a382-4ea6-9809-2fd0aa67cbc8)
