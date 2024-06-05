@@ -27,12 +27,11 @@ The interface is designed to be highly accessible and functional:<BR>
 <li><b>Image Upload Limitations:</b> Clearly states the file size limit and supported formats to ensure users provide compatible images.</li>
 </ol>
 <BR></BR>
+![Picture4](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/50cd8f62-a382-4ea6-9809-2fd0aa67cbc8)
 
-![Picture3](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/378fed92-6e8f-4ee3-845d-ab0d76d65c4c)
 <BR></BR>
 The image depicts a user interface for fish species identification. The uploaded image shows several goldfish swimming. The system has detected the class as "fish" and identified the species as "Gold Fish." On the left side, there's a list of various fish species, each with an icon, providing options for users to explore different types of fish.
 
-![Picture4](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/50cd8f62-a382-4ea6-9809-2fd0aa67cbc8)
 
 ![Picture5](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/360efe91-dd21-412a-b397-788c2b53bd93)
 
