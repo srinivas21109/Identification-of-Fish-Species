@@ -14,8 +14,10 @@ The output layer consists of neurons corresponding to the possible classes the n
 **Workflow**  <BR></BR>
 **Image Input:** <BR>
 The process starts with an image of a fish being input into the network.The image is broken down into its pixel values which are then fed into the input layer.
+<BR>
 **Data Processing** <BR>
 As the data moves through the hidden layers, various features and patterns within the image are detected and learned. The neurons in each hidden layer apply an activation function to the weighted sum of their inputs, introducing non-linearity into the model, which helps in learning complex patterns.
+<BR>
 **Classification:** <BR>
 The processed data reaches the output layer, where each neuron provides a score or probability for a respective class.The class with the highest probability is chosen as the prediction of the neural network.
 
