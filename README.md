@@ -40,7 +40,8 @@ The image depicts a user interface for fish species identification. The uploaded
 The model has identified the fish in the image as a Goby with a confidence level of 100.00%. This indicates that the model is completely certain that the fish belongs to the Goby species. On the other hand, the model has a 0.00% confidence level for other fish species, including Snakehead, Catfish, Janitor Fish, and Mudfish. This means the model is entirely sure that the fish is not any of these species.
 <BR></BR>
 ![Picture5](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/02975bba-0cc1-4e1e-ab87-83a468afd5d3)
-<br>
+<br></br>
+
 The model was unable to classify the image as it does not match any of the known classes in the dataset. The message displayed is:<BR></BR>
 
 "Your image doesn't belong to any of our classes 😔"<BR></BR>
