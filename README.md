@@ -16,7 +16,7 @@ The output layer consists of neurons corresponding to the possible classes the n
   
 ![Picture2](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/93d94492-7512-4959-b933-510d19ea6c32)
 
-**User Interface**
+<H3>User Interface</H3>
 <BR></BR>
 The interface is designed to be highly accessible and functional:<BR>
 <ol>
