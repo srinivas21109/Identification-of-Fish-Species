@@ -2,7 +2,7 @@
 The image depicts a basic structure of a neural network used for image classification, specifically for identifying different types of fish. Here's a detailed explanation. <br></br>
 ![Picture1](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/cc4ef9fb-1dd9-493b-8ed9-332def49ecfe)
 
-<H3><B>Neural Network Structure</B</H3> 
+<H3><B>Neural Network Structure</B></H3> 
 <BR></BR>
 <OL>
 <LI><B>Input Layer:</B> <BR>
