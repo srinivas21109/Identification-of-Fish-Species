@@ -1,17 +1,14 @@
 # Identification-of-Fish-Species
 
 ![Picture1](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/cc4ef9fb-1dd9-493b-8ed9-332def49ecfe)
-The image depicts a basic structure of a neural network used for image classification, specifically for identifying different types of fish. Here's a detailed explanation.
-**Neural Network Structure**
-**1.Input Layer:**
+The image depicts a basic structure of a neural network used for image classification, specifically for identifying different types of fish. Here's a detailed explanation. <br></br>
+**Neural Network Structure** <BR></BR>
+**1.Input Layer:**<BR><BR>
 The image of a fish, in this case, a goldfish, is fed into the neural network. The pixels of the image are used as the input data. Each pixel value is a feature that the network will use to learn and make predictions. <BR></BR>
-**2.Hidden Layers:** 
-The network contains multiple hidden layers. These layers consist of interconnected neurons.
-Each neuron in a hidden layer takes input from the neurons in the previous layer, processes it, and passes the output to the neurons in the next layer.
-The connections between neurons are weighted, and these weights are adjusted during the training process to minimize the error in predictions.
-
-Output Layer:
-The output layer consists of neurons corresponding to the possible classes the network can predict. In this example, there are three classes: Gold Fish, Indian Carp, and Goby.
+**2.Hidden Layers:** <BR>
+The network contains multiple hidden layers. These layers consist of interconnected neurons.Each neuron in a hidden layer takes input from the neurons in the previous layer, processes it, and passes the output to the neurons in the next layer. The connections between neurons are weighted, and these weights are adjusted during the training process to minimize the error in predictions.
+<BR></BR>
+**Output Layer:** <BR>The output layer consists of neurons corresponding to the possible classes the network can predict. In this example, there are three classes: Gold Fish, Indian Carp, and Goby.
 Each neuron in the output layer represents the probability of the input image belonging to a particular class.
 
 Workflow
