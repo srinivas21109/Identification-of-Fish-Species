@@ -3,7 +3,7 @@ The image depicts a basic structure of a neural network used for image classific
 ![Picture1](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/cc4ef9fb-1dd9-493b-8ed9-332def49ecfe)
 
 <H3><B>Neural Network Structure</B></H3> 
-<BR></BR>
+<BR>
 <OL>
 <LI><B>Input Layer:</B> <BR>
 The image of a fish, in this case, a goldfish, is fed into the neural network. The pixels of the image are used as the input data. Each pixel value is a feature that the network will use to learn and make predictions.</LI> <BR>
