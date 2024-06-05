@@ -13,7 +13,9 @@ The output layer consists of neurons corresponding to the possible classes the n
 </OL>
   <BR></BR>
 ![Picture2](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/93d94492-7512-4959-b933-510d19ea6c32)
-**User Interface**<BR></BR>
+<BR></BR>
+**User Interface**
+<BR></BR>
 The interface is designed to be highly accessible and functional:<BR>
 <ol>
 <li><b>Sidebar with Fish Species List:</b> The sidebar contains a scrollable list of fish species that the model can recognize, each accompanied by an icon for easy identification.</li>
