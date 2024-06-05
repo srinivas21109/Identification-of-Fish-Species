@@ -30,10 +30,12 @@ The interface is designed to be highly accessible and functional:<BR>
 
 ![Picture3](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/50cd8f62-a382-4ea6-9809-2fd0aa67cbc8)
 
-
 The image depicts a user interface for fish species identification. The uploaded image shows several goldfish swimming. The system has detected the class as "fish" and identified the species as "Gold Fish." On the left side, there's a list of various fish species, each with an icon, providing options for users to explore different types of fish.
 <BR></BR>
 
-![Picture5](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/360efe91-dd21-412a-b397-788c2b53bd93)
+![Picture4](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/360efe91-dd21-412a-b397-788c2b53bd93)
 
+The image illustrates the prediction results from a fish classification model. Here's a detailed explanation of the model's output:<BR>
+The model has identified the fish in the image as a Goby with a confidence level of 100.00%. This indicates that the model is completely certain that the fish belongs to the Goby species. On the other hand, the model has a 0.00% confidence level for other fish species, including Snakehead, Catfish, Janitor Fish, and Mudfish. This means the model is entirely sure that the fish is not any of these species.
+<BR></BR>
 ![Picture6](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/02975bba-0cc1-4e1e-ab87-83a468afd5d3)
