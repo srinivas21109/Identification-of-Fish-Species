@@ -1,7 +1,7 @@
 # Identification-of-Fish-Species
 The image depicts a basic structure of a neural network used for image classification, specifically for identifying different types of fish. Here's a detailed explanation. <br></br>
 ![Picture1](https://github.com/srinivas21109/Identification-of-Fish-Species/assets/119849011/cc4ef9fb-1dd9-493b-8ed9-332def49ecfe)
-**Neural Network Structure**</BR>
+<p style="font-size:20;">**Neural Network Structure**</p></BR>
 **1.Input Layer:** <BR>
 The image of a fish, in this case, a goldfish, is fed into the neural network. The pixels of the image are used as the input data. Each pixel value is a feature that the network will use to learn and make predictions. <BR>
 **2.Hidden Layers:** <BR>
